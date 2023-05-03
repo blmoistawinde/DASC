@@ -1,0 +1,12 @@
+accelerate
+datasets
+sentencepiece
+protobuf
+rouge-score
+nltk
+py7zr
+evaluate
+tensorboard
+sacrebleu
+bert_score
+transformers

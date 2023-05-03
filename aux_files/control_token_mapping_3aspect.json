@@ -1,0 +1,26 @@
+{
+    "Gender": {
+        "[gender-n]": 0,
+        "[male]": 1,
+        "[female]": 2
+    },
+    "Sentiment": {
+        "[sentiment-n]": 0,
+        "[positive]": 1,
+        "[negative]": 2
+    },
+    "Emotion": {
+        "[anger]": 0,
+        "[disgust]": 1,
+        "[fear]": 2,
+        "[happiness]": 3,
+        "[like]": 4,
+        "[emotion-n]": 5,
+        "[sadness]": 6,
+        "[surprise]": 7
+    },
+    "Question": {
+        "[statement]": 0,
+        "[question]": 1
+    }
+}
