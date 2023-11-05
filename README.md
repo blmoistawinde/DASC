@@ -1,6 +1,6 @@
 # DASC
 
-Code and data for the paper ["Semantic Space Grounded Weighted Decoding for Multi-Attribute Controllable Dialog Generation"](paper.pdf).
+Code and data for the EMNLP 2023 paper ["Semantic Space Grounded Weighted Decoding for Multi-Attribute Controllable Dialog Generation"](paper.pdf).
 
 ## Train
 
